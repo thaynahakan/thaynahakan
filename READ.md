@@ -1,5 +1,8 @@
-﻿# Oiee, eu sou Thayna Bittencourt Baima, programadora em formação!
- Se gostar de conversar sobre jogos e animes, me chama nas outras redes sociais!
+﻿# Thayna Bittencourt Baima
+ Oiee, sou uma programadora em formação e será um prazer me conectar a você! Se gostar de conversar sobre jogos e animes, me chama nas outras redes sociais!
+
+ ![AsukaShikinamiLangleyRebuildOfEvangelionGIF](https://github.com/thaynahakan/thaynahakan/assets/131307382/ac2c221f-49f6-4eee-9366-a6917d604f00)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
