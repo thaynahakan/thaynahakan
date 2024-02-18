@@ -28,9 +28,11 @@
   
 </div>
 Você encontra todas as minhas redes sociais por ThaynahaKan, esse nome alem de lindo é útil! KKKK
- ![AsukaShikinamiLangleyRebuildOfEvangelionGIF](https://github.com/thaynahakan/thaynahakan/assets/131307382/ac2c221f-49f6-4eee-9366-a6917d604f00)
+ ![AsukaShikinamiLangleyRebuildOfEvangelionGIF](https://media.tenor.com/GHbs7704r9kAAAAC/asuka-shikinami-langley-asuka-shikinami.gif)
 
  ##Evangelion é meu anime favorito e a Asuka pra mim é a melhor personagem, sem ela não teria enrredo, protagonistaaaaaaaaaaaaa KKK
+
+ ![AsukaFuriosa](https://64.media.tumblr.com/cc5121e0a6d2c9cbcc3a441048c0d66d/tumblr_o85j9trssA1tj0a58o1_540.gif)
 
 
 
