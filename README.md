@@ -30,15 +30,8 @@
 Você encontra todas as minhas redes sociais por ThaynahaKan, esse nome alem de lindo é útil! KKKK
  ![AsukaShikinamiLangleyRebuildOfEvangelionGIF](https://github.com/thaynahakan/thaynahakan/assets/131307382/ac2c221f-49f6-4eee-9366-a6917d604f00)
 
-<div style="display: inline_block"><br>
+ ##Evangelion é meu anime favorito e a Asuka pra mim é a melhor personagem, sem ela não teria enrredo, protagonistaaaaaaaaaaaaa KKK
 
- Evangelion é meu anime favorito e a Asuka pra mim é a melhor personagem, sem ela não teria enrredo, protagonistaaaaaaaaaaaaa KKK
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
-##
+
 
