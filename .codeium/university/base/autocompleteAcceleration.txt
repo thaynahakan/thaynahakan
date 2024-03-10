@@ -1,0 +1,18 @@
+// Sandbox code for Codeium Autocomplete: Acceleration.
+
+// STEP 1: Create a Species enum.
+
+// STEP 2: Add species to Pet.
+class Pet {
+    name: string;
+    age: number;
+ 
+    constructor(name: string, age: number) {
+        this.name = name;
+        this.age = age;
+    }
+}
+ 
+// STEP 3: Assign each pet a species.
+
+// STEP 4: Print each pet in a for loop.

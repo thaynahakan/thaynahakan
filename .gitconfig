@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Thayna Bittencourt Baima
+	email = 131307382+thaynahakan@users.noreply.github.com
+[safe]
+	directory = D:/BECK-F1/MeusProjetos/softex---back-end

@@ -1,0 +1,559 @@
+15:50:24.378 info extension stopping host
+15:50:24.415 info extension stopping host
+15:50:25.166 info extension host process output: port:[54809]
+15:50:25.131 info host ------------ starting ------------
+15:50:25.167 info extension 
+15:50:25.202 info extension host process output: port:[54810]
+15:50:25.145 info host ------------ starting ------------
+15:50:25.207 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+15:50:25.202 info extension 
+15:50:25.241 info host client connected: extension { address: '::', family: 'IPv6', port: 54810 }
+15:50:25.493 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\login\\index.tsx","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\style.ts","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+15:50:25.589 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\node-api-discover\\axios-api\\main.js","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\node-api-discover\\axios-api\\main.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+15:50:25.588 info host starting tools discovery and integration
+15:50:25.589 info host creating C:\Users\Thayná Bittencourt\.console-ninja\.bin
+15:50:25.607 info host installing C:\Users\Thayná Bittencourt\.console-ninja\.bin\loader.js
+15:50:25.598 info host worker Starting Host Worker...
+15:50:25.614 info host installing C:\Users\Thayná Bittencourt\.console-ninja\.bin\console-ninja.ps1
+15:50:25.621 info host installing C:\Users\Thayná Bittencourt\.console-ninja\.bin\console-ninja.cmd
+15:50:25.629 info host installing PATH C:\Users\Thayná Bittencourt\.console-ninja\.bin
+15:50:25.680 info host worker Starting Host Worker...
+15:50:25.677 info host starting tools discovery and integration
+15:50:25.753 info host installing PATH C:\Users\Thayná Bittencourt\.console-ninja\.bin
+15:50:26.079 info extension stopping host
+15:50:26.193 info host looking for tools to patch
+15:50:26.204 info host looking for tools to patch
+15:50:26.232 info host found 0 tool file(s) to patch
+15:50:26.236 info host completed tools discovery and integration
+15:50:26.583 info host found 1 tool file(s) to patch
+15:50:26.586 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+15:50:26.668 info host completed tools discovery and integration
+15:50:26.677 info extension host process output: port:[54857]
+15:50:26.645 info host ------------ starting ------------
+15:50:26.677 info extension 
+15:50:26.708 info host client connected: extension { address: '::', family: 'IPv6', port: 54857 }
+15:50:26.829 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\node-api-discover\\index.js","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\node-api-discover\\axios-api\\main.js","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\node-api-discover\\axios-api\\main.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+15:50:26.861 info host starting tools discovery and integration
+15:50:26.869 info host installing PATH C:\Users\Thayná Bittencourt\.console-ninja\.bin
+15:50:26.883 info host worker Starting Host Worker...
+15:50:27.121 info host looking for tools to patch
+15:50:27.153 info host found 0 tool file(s) to patch
+15:50:27.163 info host completed tools discovery and integration
+16:14:25.335 ERR! host could not obtain lock; retrying Lock file is already being held
+16:15:25.336 ERR! host could not obtain lock; retrying Lock file is already being held
+16:16:25.348 ERR! host could not obtain lock; retrying Lock file is already being held
+16:17:25.363 ERR! host could not obtain lock; retrying Lock file is already being held
+16:18:25.372 ERR! host could not obtain lock; retrying Lock file is already being held
+16:19:25.379 ERR! host could not obtain lock; retrying Lock file is already being held
+16:20:25.393 ERR! host could not obtain lock; retrying Lock file is already being held
+16:21:25.395 ERR! host could not obtain lock; retrying Lock file is already being held
+16:22:25.402 ERR! host could not obtain lock; retrying Lock file is already being held
+16:23:25.415 ERR! host could not obtain lock; retrying Lock file is already being held
+16:24:25.419 ERR! host could not obtain lock; retrying Lock file is already being held
+16:25:25.421 ERR! host could not obtain lock; retrying Lock file is already being held
+16:26:25.426 ERR! host could not obtain lock; retrying Lock file is already being held
+16:27:25.440 ERR! host could not obtain lock; retrying Lock file is already being held
+16:28:25.447 ERR! host could not obtain lock; retrying Lock file is already being held
+16:29:25.462 ERR! host could not obtain lock; retrying Lock file is already being held
+16:30:25.475 ERR! host could not obtain lock; retrying Lock file is already being held
+16:31:25.486 ERR! host could not obtain lock; retrying Lock file is already being held
+16:32:20.601 info extension client disconnected: 1006 
+16:32:20.602 info extension client disconnected: 1006 
+16:32:21.185 info extension stopping host
+16:32:21.233 ERR! extension error processing message: {
+10:51:31.797 info extension stopping host
+10:51:32.580 info host ------------ starting ------------
+10:51:32.855 info extension host process output: port:[54809]
+10:51:32.855 info extension 
+10:51:33.169 info host worker Starting Host Worker...
+10:51:33.395 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+10:51:34.229 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.276\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\login\\index.tsx","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\style.ts","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+10:51:34.258 info host starting tools discovery and integration
+10:51:34.457 info host looking for tools to patch
+10:51:35.264 info host found 1 tool file(s) to patch
+10:51:35.268 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+10:51:35.320 info host completed tools discovery and integration
+10:51:35.343 info host removing cache folder: e91aaf375882af8393911dda56d6f2da
+10:52:32.670 info host removing cache folder: 310eb8f2a2f20ba90ce3d42b984df7b2
+10:52:32.670 info host removing cache folder: 7c7742f2b56ae14d575481f0189189b7
+10:54:18.136 info extension stopping host
+10:55:23.701 info buildHook-6516 installing build hook for vite at c:\users\thayná bittencourt\desktop\front-end, node v21.4.0
+10:55:23.767 info host client connected: buildHook { address: '::', family: 'IPv6', port: 54809 }
+10:55:23.723 info buildHook-6516 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+10:55:23.723 info buildHook-6516 running tools: vite
+10:55:23.727 info buildHook-6516 installing fs interceptor
+10:55:23.777 info buildHook-6516 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+10:55:23.777 info buildHook-6516 running tools: vite
+10:55:23.778 info buildHook-6516 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+10:55:23.779 info buildHook-6516 running tools: vite
+10:55:24.146 info buildHook-6516 file processed (stat): 0 log points, error handler: true
+10:55:24.265 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+10:55:24.295 info buildHook-6516 file processed (stat): 0 log points, error handler: false
+10:55:24.301 info buildHook-6516 file processed (stat): 0 log points, error handler: false
+10:55:26.966 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:55:34.960 info host client disconnected: runtimeHook 1001
+10:55:34.960 info host client disconnected: runtimeHook
+10:55:35.079 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:55:36.356 info host client disconnected: runtimeHook 1001
+10:55:36.356 info host client disconnected: runtimeHook
+10:55:36.472 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:55:42.795 info host client disconnected: runtimeHook 1001
+10:55:42.795 info host client disconnected: runtimeHook
+10:55:42.916 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:55:50.921 info host client disconnected: runtimeHook 1001
+10:55:50.921 info host client disconnected: runtimeHook
+10:55:51.044 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:56:29.052 info host client disconnected: runtimeHook 1001
+10:56:29.052 info host client disconnected: runtimeHook
+10:56:29.393 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:56:38.806 info host client disconnected: runtimeHook 1001
+10:56:38.806 info host client disconnected: runtimeHook
+10:56:39.071 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:57:32.118 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+10:57:32.171 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+10:57:32.188 info buildHook-6516 file processed (stat): 0 log points, error handler: false
+10:57:50.985 info host client disconnected: runtimeHook 1001
+10:57:50.985 info host client disconnected: runtimeHook
+10:57:51.185 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:57:51.203 info buildHook-6516 file processed (stat): 0 log points, error handler: false
+10:58:38.600 info buildHook-6516 file processed (stat): 0 log points, error handler: false
+10:58:38.658 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+10:58:38.840 info host client disconnected: runtimeHook 1001
+10:58:38.841 info host client disconnected: runtimeHook
+10:58:39.007 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+10:59:50.083 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+10:59:50.118 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+10:59:50.187 info host client disconnected: runtimeHook 1001
+10:59:50.187 info host client disconnected: runtimeHook
+10:59:50.325 info buildHook-6516 file processed (stat): 0 log points, error handler: false
+10:59:50.382 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+11:27:58.845 info extension stopping host
+11:35:49.960 info buildHook-6516 file processed (stat): 0 log points, error handler: true
+11:42:23.533 info buildHook-6516 file processed (promise): 0 log points, error handler: true
+11:42:23.545 info host client disconnected: runtimeHook 1001
+11:42:23.545 info host client disconnected: runtimeHook
+11:42:23.813 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+11:42:51.618 info host client disconnected: runtimeHook 1001
+11:42:51.618 info host client disconnected: runtimeHook
+11:42:51.742 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+11:43:15.516 info buildHook-6516 file processed (stat): 0 log points, error handler: false
+11:43:15.547 info buildHook-6516 file processed (stat): 1 log points, error handler: false
+11:43:15.689 info host client disconnected: runtimeHook 1001
+11:43:15.689 info host client disconnected: runtimeHook
+11:43:15.717 info host scheduling tools patching
+11:43:15.858 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+11:43:17.731 info host looking for tools to patch
+11:43:17.957 info host found 1 tool file(s) to patch
+11:43:17.958 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+11:43:26.007 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+11:43:26.049 info buildHook-6516 file processed (stat): 2 log points, error handler: false
+11:43:26.109 info host client disconnected: runtimeHook 1001
+11:43:26.109 info host client disconnected: runtimeHook
+11:43:26.205 info host scheduling tools patching
+11:43:26.310 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+11:43:28.215 info host looking for tools to patch
+11:43:28.401 info host found 1 tool file(s) to patch
+11:43:28.402 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+11:44:24.251 info host client disconnected: runtimeHook 1001
+11:44:24.251 info host client disconnected: runtimeHook
+11:44:24.390 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+12:35:08.341 info host client disconnected: runtimeHook 1001
+12:35:08.341 info host client disconnected: runtimeHook
+12:35:10.307 info extension stopping host
+12:35:10.325 info host removing cache folder: 81146af7a1fec2dfa66ed03e77f04dff
+12:35:10.329 info buildHook-6516 client disconnected: 1006 
+12:35:10.330 info buildHook-6516 disconnected from host: 54809
+12:35:10.330 info buildHook-6516 disconnected from all hosts
+13:28:12.150 info extension stopping host
+13:28:12.869 info host ------------ starting ------------
+13:28:13.016 info extension host process output: port:[54809]
+13:28:13.017 info extension 
+13:28:13.193 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+13:28:13.387 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\register\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\login\\index.tsx","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\style.ts","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\index.tsx","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\MyPortfolio\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+13:28:13.563 info host starting tools discovery and integration
+13:28:13.587 info host updating C:\Users\Thayná Bittencourt\.console-ninja\.bin\loader.js
+13:28:13.632 info host looking for tools to patch
+13:28:13.619 info host worker Starting Host Worker...
+13:28:14.638 info host found 1 tool file(s) to patch
+13:28:14.640 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+13:28:14.725 info host completed tools discovery and integration
+13:29:22.779 info extension stopping host
+13:31:26.160 info buildHook-10264 installing build hook for vite at c:\users\thayná bittencourt\desktop\front-end, node v21.4.0
+13:31:26.182 info buildHook-10264 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+13:31:26.221 info host client connected: buildHook { address: '::', family: 'IPv6', port: 54809 }
+13:31:26.182 info buildHook-10264 running tools: vite
+13:31:26.185 info buildHook-10264 installing fs interceptor
+13:31:26.227 info buildHook-10264 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+13:31:26.227 info buildHook-10264 running tools: vite
+13:31:26.229 info buildHook-10264 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+13:31:26.229 info buildHook-10264 running tools: vite
+13:31:26.557 info buildHook-10264 file processed (stat): 0 log points, error handler: true
+13:31:26.617 info buildHook-10264 file processed (stat): 0 log points, error handler: false
+13:31:26.664 info buildHook-10264 file processed (stat): 2 log points, error handler: false
+13:31:26.692 info buildHook-10264 file processed (stat): 2 log points, error handler: false
+13:31:26.698 info buildHook-10264 file processed (stat): 0 log points, error handler: false
+13:31:30.638 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+14:33:57.777 info host client disconnected: runtimeHook 1001
+14:33:57.777 info host client disconnected: runtimeHook
+14:33:58.030 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+14:33:59.402 info host client disconnected: runtimeHook 1001
+14:33:59.402 info host client disconnected: runtimeHook
+14:33:59.515 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+14:34:30.657 info buildHook-10264 file processed (stat): 0 log points, error handler: false
+14:35:06.314 info buildHook-10264 file processed (stat): 0 log points, error handler: false
+14:35:06.317 info buildHook-10264 file processed (stat): 0 log points, error handler: false
+14:35:06.500 info host scheduling tools patching
+14:35:06.509 info host client disconnected: runtimeHook 1001
+14:35:06.510 info host client disconnected: runtimeHook
+14:35:06.664 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+14:35:08.506 info host looking for tools to patch
+14:35:08.763 info host found 1 tool file(s) to patch
+14:35:08.764 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+14:35:31.731 ERR! buildHook-10264 unable to get file size for c:\users\thayná bittencourt\desktop\front-end\index.html ENOENT: no such file or directory, open 'c:\users\thayná bittencourt\desktop\front-end\index.html'
+14:35:31.754 info buildHook-10264 file processed (stat): 0 log points, error handler: true
+14:35:31.851 info host client disconnected: runtimeHook 1001
+14:35:31.851 info host client disconnected: runtimeHook
+14:35:31.967 info host scheduling tools patching
+14:35:33.976 info host looking for tools to patch
+14:35:34.160 info host found 1 tool file(s) to patch
+14:35:34.160 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+14:37:36.262 info extension stopping host
+14:37:43.701 info extension stopping host
+14:37:44.173 info host ------------ starting ------------
+14:37:44.256 info extension host process output: port:[56857]
+14:37:44.256 info extension 
+14:37:44.343 info host client connected: extension { address: '::', family: 'IPv6', port: 56857 }
+14:37:44.612 info host worker Starting Host Worker...
+14:37:44.623 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front-1\\1122\\Bootstrap\\layout.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front-1\\1122\\aula-05\\cardapio\\segunda-tela.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front-1\\1122\\aula-05\\cardapio\\sailorcoffee.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front-1\\1122\\Bootstrap\\index.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front-1\\1122\\Bootstrap\\assets\\nova.html","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+14:37:44.675 info host starting tools discovery and integration
+14:37:44.726 info host looking for tools to patch
+14:37:44.787 info host found 0 tool file(s) to patch
+14:37:44.832 info host completed tools discovery and integration
+16:51:28.833 info host client disconnected: buildHook 1006
+16:51:28.833 info host client disconnected: buildHook 1006, has clients false
+16:51:28.884 info host client disconnected: extension 1006
+13:05:20.175 info extension stopping host
+13:05:21.185 info host ------------ starting ------------
+13:05:21.522 info extension host process output: port:[54809]
+13:05:21.522 info extension 
+13:05:21.837 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+13:05:21.912 info host worker Starting Host Worker...
+13:05:22.288 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\style.ts","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+13:05:22.321 info host starting tools discovery and integration
+13:05:22.556 info host looking for tools to patch
+13:05:23.200 info host found 1 tool file(s) to patch
+13:05:23.203 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+13:05:23.244 info host completed tools discovery and integration
+13:05:23.258 info host removing cache folder: 071b0019e2ae7929f9871d3c54f9aaff
+13:05:35.762 info host scheduling tools patching
+13:05:37.777 info host looking for tools to patch
+13:05:38.039 info host found 1 tool file(s) to patch
+13:05:38.040 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+13:06:21.386 info host removing cache folder: b26ac0514b1d7cbfc8cf0d8df3467f62
+13:52:16.900 info extension stopping host
+13:52:22.336 info extension stopping host
+13:52:22.724 info host ------------ starting ------------
+13:52:22.930 info host worker Starting Host Worker...
+13:52:23.495 info extension host process output: port:[58258]
+13:52:23.496 info extension 
+13:52:25.991 info host client connected: extension { address: '::', family: 'IPv6', port: 58258 }
+13:52:26.007 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+13:52:26.042 info host starting tools discovery and integration
+13:52:26.052 info host looking for tools to patch
+13:52:26.073 info host found 0 tool file(s) to patch
+13:52:26.086 info host completed tools discovery and integration
+15:54:45.659 info extension stopping host
+15:54:46.599 info extension stopping host
+15:54:46.619 info host removing cache folder: 6ddfcc41e8eb5307a5aba80bf06dc5a2
+15:54:46.636 ERR! extension error processing message: {
+08:21:18.452 info extension stopping host
+08:21:19.316 info host ------------ starting ------------
+08:21:19.683 info host worker Starting Host Worker...
+08:21:20.446 info extension host process output: port:[54809]
+08:21:20.446 info extension 
+08:21:20.677 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+08:21:21.074 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.279\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\register\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\login\\index.tsx","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\style.ts","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+08:21:21.106 info host starting tools discovery and integration
+08:21:21.176 info host looking for tools to patch
+08:21:22.290 info host found 1 tool file(s) to patch
+08:21:22.293 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+08:21:22.321 info host completed tools discovery and integration
+08:22:19.374 info host removing cache folder: a4894ffc04c7fb52423c562af1fa0440
+14:27:48.625 info extension stopping host
+14:28:01.729 info extension stopping host
+14:28:53.294 info extension stopping host
+14:46:15.738 info host scheduling tools patching
+14:46:17.753 info host looking for tools to patch
+14:46:18.019 info host found 1 tool file(s) to patch
+14:46:18.020 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+21:10:46.775 info extension stopping host
+21:12:11.474 info extension stopping host
+22:01:52.450 info extension stopping host
+10:49:32.206 info extension stopping host
+10:49:33.005 info host ------------ starting ------------
+10:49:33.345 info extension host process output: port:[54809]
+10:49:33.345 info extension 
+10:49:33.508 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+10:49:33.691 info host worker Starting Host Worker...
+10:49:34.003 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.283","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.283\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.283\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\components\\projectdialog\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\reducer\\application\\reducer.ts","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\register\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\login\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\myportfolio\\index.tsx","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\style.ts","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+10:49:34.034 info host starting tools discovery and integration
+10:49:34.129 info host updating C:\Users\Thayná Bittencourt\.console-ninja\.bin\loader.js
+10:49:34.228 info host looking for tools to patch
+10:49:35.558 info host found 1 tool file(s) to patch
+10:49:35.561 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+10:49:35.764 info host completed tools discovery and integration
+10:49:35.778 info host removing cache folder: 132b6d1d5fe217515b5bbddc556c64de
+13:28:48.242 info extension stopping host
+07:39:16.457 info extension stopping host
+07:39:17.421 info host ------------ starting ------------
+07:39:17.921 info extension host process output: port:[54809]
+07:39:18.056 info host worker Starting Host Worker...
+07:39:17.922 info extension 
+07:39:18.394 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+07:39:18.766 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.283","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.283\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.283\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\register\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\login\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\pages\\myportfolio\\index.tsx","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\reducer\\application\\reducer.ts","reason":"search"},{"path":"c:\\users\\thayná bittencourt\\desktop\\front-end\\src\\components\\projectdialog\\index.tsx","reason":"search"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\style.ts","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Register\\index.tsx","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Front-End\\src\\pages\\Login\\index.tsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+07:39:18.797 info host starting tools discovery and integration
+07:39:18.884 info host looking for tools to patch
+07:39:19.418 info host found 1 tool file(s) to patch
+07:39:19.421 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+07:39:19.452 info host completed tools discovery and integration
+07:39:19.457 info host removing cache folder: 24f77a8a26e96d5fb69a8ca5d14a5d97
+07:40:28.303 info extension stopping host
+07:43:31.440 info extension stopping host
+07:43:31.849 info host ------------ starting ------------
+07:43:32.072 info host worker Starting Host Worker...
+07:43:33.840 info extension host process output: port:[50862]
+07:43:33.840 info extension 
+07:43:33.981 info host client connected: extension { address: '::', family: 'IPv6', port: 50862 }
+07:43:34.083 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\Aula-02\\portifolio.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-03\\formularios.html\\formulario.htm","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-03\\formularios.html\\envio.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-04\\texto.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-04\\tabelas\\index.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-05\\cardapio\\sailorcoffee.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-06\\index.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\Logica_JS\\elegibilidade.js","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-05\\cardapio\\segunda-tela.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-04\\formularios-2\\integrador-backend\\index.html","reason":"open"},{"path":"c:\\Users\\Thayná Bittencourt\\Desktop\\Santander_front\\1122\\aula-04\\formularios-2\\mais-inputs\\index.html","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+07:43:34.128 info host starting tools discovery and integration
+07:43:34.137 info host updating C:\Users\Thayná Bittencourt\.console-ninja\.bin\loader.js
+07:43:34.143 info host looking for tools to patch
+07:43:34.184 info host found 0 tool file(s) to patch
+07:43:34.205 info host completed tools discovery and integration
+08:45:08.857 info extension stopping host
+13:54:18.346 info buildHook-19440 installing build hook for vite at c:\users\thayná bittencourt\desktop\front-end, node v21.4.0
+13:54:18.368 info buildHook-19440 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+13:54:18.368 info buildHook-19440 running tools: vite
+13:54:18.417 info host client connected: buildHook { address: '::', family: 'IPv6', port: 54809 }
+13:54:18.372 info buildHook-19440 installing fs interceptor
+13:54:18.425 info buildHook-19440 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+13:54:18.425 info buildHook-19440 running tools: vite
+13:54:18.427 info buildHook-19440 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+13:54:18.427 info buildHook-19440 running tools: vite
+13:54:18.776 info buildHook-19440 file processed (stat): 0 log points, error handler: true
+13:54:18.985 info buildHook-19440 file processed (stat): 4 log points, error handler: false
+13:54:19.015 info buildHook-19440 file processed (stat): 1 log points, error handler: false
+13:54:19.058 info buildHook-19440 file processed (stat): 2 log points, error handler: false
+13:54:19.091 info buildHook-19440 file processed (stat): 2 log points, error handler: false
+13:54:19.102 info buildHook-19440 file processed (stat): 0 log points, error handler: false
+13:54:19.124 info buildHook-19440 file processed (stat): 0 log points, error handler: false
+13:54:22.724 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+13:54:38.407 info host client disconnected: runtimeHook 1001
+13:54:38.408 info host client disconnected: runtimeHook
+13:54:38.976 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+13:55:11.441 info host client disconnected: runtimeHook 1001
+13:55:11.441 info host client disconnected: runtimeHook
+13:55:11.677 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+13:55:38.374 info buildHook-19440 file processed (stat): 0 log points, error handler: true
+13:55:38.606 info host scheduling tools patching
+13:55:38.643 info host client disconnected: runtimeHook 1001
+13:55:38.643 info host client disconnected: runtimeHook
+13:55:38.826 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 54809 }
+13:55:40.618 info host looking for tools to patch
+13:55:40.896 info host found 1 tool file(s) to patch
+13:55:40.897 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+13:55:58.986 info host client disconnected: runtimeHook 1001
+13:55:58.986 info host client disconnected: runtimeHook
+13:56:18.657 info host client disconnected: buildHook 1006
+13:56:18.657 info host client disconnected: buildHook 1006, has clients false
+14:26:44.818 info extension stopping host
+14:26:44.836 info host removing cache folder: d20311afaa36e93191b4fce5de1357a6
+14:26:51.390 info extension stopping host
+14:26:52.671 info extension stopping host
+14:26:52.695 info host removing cache folder: 6d84abb79464708639d179aac9ffec13
+14:33:08.139 info extension stopping host
+14:33:16.023 info extension stopping host
+14:33:16.522 info host ------------ starting ------------
+14:33:16.593 info extension host process output: port:[54809]
+14:33:16.593 info extension 
+14:33:16.709 info host client connected: extension { address: '::', family: 'IPv6', port: 54809 }
+14:33:16.826 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+14:33:16.848 info host starting tools discovery and integration
+14:33:16.861 info host worker Starting Host Worker...
+14:33:16.875 info host looking for tools to patch
+14:33:16.901 info host found 0 tool file(s) to patch
+14:33:16.908 info host completed tools discovery and integration
+14:33:24.233 info host scheduling tools patching
+14:33:26.244 info host looking for tools to patch
+14:33:26.250 info host found 0 tool file(s) to patch
+15:51:50.650 info host scheduling tools patching
+15:51:52.655 info host looking for tools to patch
+15:51:52.891 info host found 1 tool file(s) to patch
+15:51:52.894 info host patching c:\users\thayná bittencourt\desktop\front-end\node_modules\vite\bin\vite.js
+16:33:40.731 info extension stopping host
+22:01:04.854 info extension stopping host
+16:43:00.015 info extension stopping host
+17:13:50.339 info extension stopping host
+17:13:50.815 info host ------------ starting ------------
+17:13:51.048 info host worker Starting Host Worker...
+17:13:52.781 info extension host process output: port:[54437]
+17:13:52.781 info extension 
+17:13:53.050 info host client connected: extension { address: '::', family: 'IPv6', port: 54437 }
+17:13:53.099 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.284\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+17:13:53.125 info host starting tools discovery and integration
+17:13:53.165 info host looking for tools to patch
+17:13:53.194 info host found 0 tool file(s) to patch
+17:13:53.218 info host completed tools discovery and integration
+17:14:50.847 info host removing cache folder: e496cc30c06a8a7c35e5e29f0d9353a4
+17:25:30.533 info extension stopping host
+17:25:30.555 info host removing cache folder: 6b24231ca91709d15f327f3bee80d294
+19:34:58.614 info extension stopping host
+19:40:54.228 info extension stopping host
+19:45:10.860 info extension stopping host
+23:53:07.119 info extension stopping host
+10:30:12.742 info extension stopping host
+11:55:35.801 info extension stopping host
+11:55:36.316 info extension host process output: port:[50568]
+11:55:36.297 info host ------------ starting ------------
+11:55:36.316 info extension 
+11:55:36.344 info host client connected: extension { address: '::', family: 'IPv6', port: 50568 }
+11:55:36.494 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.285","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.285\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.285\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+11:55:36.520 info host starting tools discovery and integration
+11:55:36.528 info host worker Starting Host Worker...
+11:55:36.534 info host updating C:\Users\Thayná Bittencourt\.console-ninja\.bin\loader.js
+11:55:36.559 info host looking for tools to patch
+11:55:36.578 info host found 0 tool file(s) to patch
+11:55:36.588 info host completed tools discovery and integration
+14:38:08.230 info extension stopping host
+14:38:13.235 info extension stopping host
+14:38:13.673 info host ------------ starting ------------
+14:38:13.893 info host worker Starting Host Worker...
+14:38:15.576 info extension host process output: port:[61011]
+14:38:15.576 info extension 
+14:38:15.825 info host client connected: extension { address: '::', family: 'IPv6', port: 61011 }
+14:38:15.839 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.285","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.285\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.285\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+14:38:15.867 info host starting tools discovery and integration
+14:38:15.893 info host looking for tools to patch
+14:38:15.917 info host found 0 tool file(s) to patch
+14:38:15.937 info host completed tools discovery and integration
+14:39:25.605 info extension stopping host
+14:39:25.622 info host removing cache folder: 82901524ca9a74b82ccf9bc543174ae1
+14:39:25.617 ERR! extension error processing message: {
+21:58:59.692 info extension stopping host
+21:59:06.564 info extension stopping host
+21:59:06.581 info host removing cache folder: 72db0977408142cb732499a7b556310f
+17:18:47.828 info extension stopping host
+19:01:06.778 info extension stopping host
+19:01:07.657 info extension stopping host
+07:09:25.367 info extension stopping host
+12:56:37.857 info extension stopping host
+12:56:39.888 info extension stopping host
+15:33:04.582 info extension stopping host
+16:00:15.464 info extension stopping host
+16:00:20.349 info extension stopping host
+16:26:25.154 info extension stopping host
+20:25:41.195 info extension stopping host
+21:37:41.367 info extension stopping host
+21:52:19.018 info extension stopping host
+21:55:20.171 info extension stopping host
+04:24:09.420 info extension stopping host
+04:26:51.524 info extension stopping host
+15:12:37.069 info extension stopping host
+18:29:41.401 info extension stopping host
+09:20:19.614 info extension stopping host
+09:20:24.580 info extension stopping host
+09:20:25.079 info host ------------ starting ------------
+09:20:25.105 info extension host process output: port:[50476]
+09:20:25.105 info extension 
+09:20:25.160 info host client connected: extension { address: '::', family: 'IPv6', port: 50476 }
+09:20:25.293 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.287","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.287\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.287\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+09:20:25.321 info host worker Starting Host Worker...
+09:20:25.319 info host starting tools discovery and integration
+09:20:25.342 info host updating C:\Users\Thayná Bittencourt\.console-ninja\.bin\loader.js
+09:20:25.397 info host looking for tools to patch
+09:20:25.411 info host found 0 tool file(s) to patch
+09:20:25.427 info host completed tools discovery and integration
+10:10:55.154 info extension stopping host
+10:10:55.167 info host removing cache folder: 9588ec8692a399064de067eaf0e27256
+10:10:55.163 ERR! extension error processing message: {
+10:11:48.646 info extension stopping host
+12:54:32.023 info extension stopping host
+14:55:25.300 info extension stopping host
+19:45:24.471 info extension stopping host
+19:37:17.501 info extension stopping host
+21:59:42.844 info extension stopping host
+21:59:43.510 info extension stopping host
+06:52:18.643 info extension stopping host
+22:16:25.350 info extension stopping host
+22:16:26.445 info extension stopping host
+22:04:46.520 info extension stopping host
+21:42:43.199 info extension stopping host
+20:06:50.538 info extension stopping host
+20:06:55.249 info extension stopping host
+20:06:55.761 info host ------------ starting ------------
+20:06:55.781 info extension host process output: port:[56238]
+20:06:55.781 info extension 
+20:06:55.810 info host client connected: extension { address: '::', family: 'IPv6', port: 56238 }
+20:06:55.969 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+20:06:55.998 info host starting tools discovery and integration
+20:06:56.001 info host worker Starting Host Worker...
+20:06:56.018 info host updating C:\Users\Thayná Bittencourt\.console-ninja\.bin\loader.js
+20:06:56.045 info host looking for tools to patch
+20:06:56.059 info host found 0 tool file(s) to patch
+20:06:56.070 info host completed tools discovery and integration
+21:39:28.946 info extension stopping host
+21:39:28.974 info host removing cache folder: 22ecdd144454f9b497050773f92233cc
+21:39:28.967 ERR! extension error processing message: {
+21:39:36.635 info extension stopping host
+19:09:43.925 info extension stopping host
+19:10:10.650 info extension stopping host
+22:05:43.467 info extension stopping host
+21:06:06.598 info extension stopping host
+21:06:44.105 info extension stopping host
+21:06:44.751 info host ------------ starting ------------
+21:06:44.774 info extension host process output: port:[51705]
+21:06:44.775 info extension 
+21:06:44.807 info host client connected: extension { address: '::', family: 'IPv6', port: 51705 }
+21:06:45.007 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+21:06:45.036 info host worker Starting Host Worker...
+21:06:45.044 info host starting tools discovery and integration
+21:06:45.093 info host looking for tools to patch
+21:06:45.110 info host found 0 tool file(s) to patch
+21:06:45.122 info host completed tools discovery and integration
+21:07:35.884 info extension stopping host
+22:14:09.994 info extension stopping host
+22:14:10.006 info host removing cache folder: 80b365252c97c0ac96a57330863d810a
+22:14:10.002 ERR! extension error processing message: {
+22:18:24.680 info extension stopping host
+22:21:49.562 info extension stopping host
+22:21:55.130 info extension stopping host
+22:21:55.635 info host ------------ starting ------------
+22:21:55.655 info extension host process output: port:[64553]
+22:21:55.655 info extension 
+22:21:55.675 info host client connected: extension { address: '::', family: 'IPv6', port: 64553 }
+22:21:55.809 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+22:21:55.839 info host starting tools discovery and integration
+22:21:55.845 info host worker Starting Host Worker...
+22:21:55.863 info host looking for tools to patch
+22:21:55.878 info host found 0 tool file(s) to patch
+22:21:55.889 info host completed tools discovery and integration
+22:32:58.326 info extension stopping host
+22:38:59.738 info extension stopping host
+22:45:15.805 info extension stopping host
+22:45:15.823 info host removing cache folder: 0a6dc0df3bc164aeaa50c8b46cf5e4e2
+22:45:15.816 ERR! extension error processing message: {
+22:45:17.096 info extension stopping host
+22:48:50.900 info extension stopping host
+20:12:39.911 info extension stopping host
+20:12:49.279 info extension stopping host
+20:13:01.418 info extension stopping host
+20:13:02.163 info extension host process output: port:[55038]
+20:13:02.135 info host ------------ starting ------------
+20:13:02.163 info extension 
+20:13:02.189 info host client connected: extension { address: '::', family: 'IPv6', port: 55038 }
+20:13:02.368 info host starting host: {"extensionFolder":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290","runtimeHookFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Thayná Bittencourt\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.290\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-R4SUTHO","192.168.1.103"],"host":"127.0.0.1"}
+20:13:02.401 info host starting tools discovery and integration
+20:13:02.422 info host worker Starting Host Worker...
+20:13:02.463 info host looking for tools to patch
+20:13:02.478 info host found 0 tool file(s) to patch
+20:13:02.491 info host completed tools discovery and integration
