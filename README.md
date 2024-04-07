@@ -1,12 +1,12 @@
 ﻿# Thayna Bittencourt Baima
- Oiee, me reconheço como ThaynaHakan , o HaKan não tem nada a ver com League of Legends, é um nome indigena, quando minha mãe engravidou de mim e assistiu 
- a um programa indigena em Goiás ouviu uma musica sobre Thaynahakan e sentiu que eu queria esse nome mas não me Registrou com medo do Bullying na escola,
+ Oiee, pode me ler como Thayna-rrá-can , o HaKan não tem nada a ver com League of Legends, é um nome indigena, quando minha mãe engravidou de mim e assistiu 
+ a um programa indigena em Goiás ouviu uma musica sobre Thaynahakan e sentiu que eu queria esse nome, mas não me Registrou com medo do Bullying na escola.
  Ela so me chamava de Thaynahakan e agora eu gosto de atender por ele. Sou Goiana mas fui criada em Cachoeira Dourada(MG){Um interior, mas um interior
- extremamente lindo e rico em rios e fontes termais} e Cobra - Povoado Santo Antônio {Eles tem o mesmo problema que eu o nome verdadeiro é enfeite, 
+ extremamente lindo e rico em rios e fontes termais} e na Cobra - Povoado Santo Antônio {Eles tem o mesmo problema que eu o nome verdadeiro é enfeite, 
  a gente se auto denomina Cobreiro! KKK} Um interior do semi árido que não tinha nem Agua encanada, sofrendo de seca e fome, até hoje não pega Rede de celular(RN).
  
  Sou uma programadora em formação e será um prazer me conectar a você!
- Estou aprendendo sobre Full Stack, porque tenho sificuldades em não entender o todo, a curiosidade é muito grande! KKK
+ Estou aprendendo sobre o universo Full Stack, porque tenho dificuldades em não entender o todo, só funciono se entender o porquê! KKK
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
